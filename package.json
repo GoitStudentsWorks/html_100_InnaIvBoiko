@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Kryptonite-Breakers/",
+    "build": "vite build --base=/html_100_InnaIvBoiko/",
     "preview": "vite preview"
   },
   "devDependencies": {
